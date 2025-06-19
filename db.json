@@ -1,0 +1,531 @@
+[
+    {
+        "id": 1,
+        "brand": "Apple",
+        "title": "Apple MacBook Air",
+        "description": "Apple M2, ядра: 4 + 4, RAM 8 ГБ, SSD 256 ГБ",
+        "inDetail": "Ноутбук Apple MacBook Air обеспечивает скорость, энергоэффективность и удобство в эксплуатации. Он выполнен в тонком и легком корпусе из алюминия в серебристой расцветке. Мобильный компьютер позволяет работать, создавать документы и проекты, увлекательно проводить свободное время. В нем установлены процессор Apple M2, 8 ГБ системной памяти стандарта LPDDR5, накопитель SSD объемом 256 ГБ.Экран IPS 13.6 дюймов (2560x1664 пикселей) отображает четкое изображение с насыщенными и яркими цветами. Благодаря встроенному датчику освещенности яркость дисплея настраивается в автоматическом режиме. Акустическая система со стереодинамиками воспроизводит чистый насыщенный звук. Клавиатура с эргономичной раскладкой и белой подсветкой LED гарантирует комфортную работу. Аккумулятор обладает автономностью до 20 часов на одном заряде и поддерживает стандарт Power Delivery.",
+        "price": 81.799,
+        "imageUrl": [
+            "https://c.dns-shop.ru/thumb/st1/fit/500/500/959162c62d3d982943afa5d0ae0ac57c/1645458fd50667764b2082c7d0caa6d96c1cafb094adb95a7a8f6570d2400800.png.webp",
+            "https://c.dns-shop.ru/thumb/st1/fit/500/500/4bdb1497f2d364a3ea3e40f90562fc1e/ce29d11369ee96386b85e59b793e2a650930cef8e1c4caf348db69024bd2be5a.png.webp",
+            "https://c.dns-shop.ru/thumb/st1/fit/500/500/c9c43339012680a8b808d81d34966c21/274f8630a67936686a0c24b22b8780f551ac46c4f6ad413d4f6c198e0206fd69.png.webp",
+            "https://c.dns-shop.ru/thumb/st1/fit/500/500/5ba987550bee8d9890fcff5b11a1d03b/cbd21ba7fa44f22873423c13b30579e5a2252ee142b900055464d873114cba99.png.webp",
+            "https://c.dns-shop.ru/thumb/st1/fit/500/500/bea5b4d97114ad1669aafa669fb4332c/d6b343772e41b91139d7c771282465c51e226d835ed04a4eae8d5a727a3c2579.png.webp"
+        ]
+    },
+    {
+        "id": 2,
+        "brand": "Honor",
+        "title": "Смартфон HONOR",
+        "description": "ядер-8x(2 ГГц), 6ГБ, 2SIM, TFT LCD, 1612x720,",
+        "inDetail": "Смартфон HONOR X6b оснащен ярким дисплеем 6.56” с частотой 90 Гц. Батарея на 5200 мА∙ч выдерживает более суток онлайн-трансляций или просмотра социальных сетей. Вы можете одним щелчком активировать режим ускоренной зарядки. 8-ядерный процессор сохраняет плавность работы смартфона без торможения и зависания. Камера 50 Мп с искусственным интеллектом улучшает качество съемки без сложных настроек.",
+        "price": 10.999,
+        "imageUrl": [
+            "https://c.dns-shop.ru/thumb/st1/fit/500/500/870f8606bfdbd61fe8c59433855d8264/a5f5892fb168d88dcd8959faf05775a294e4cbd02d94a50f6242b547320396d4.jpg.webp",
+            "https://c.dns-shop.ru/thumb/st1/fit/500/500/1fa28ab7ddece0bef3447381dfcd7148/622f70690504e899495ab7d7240e25d8c496bb7825439efac439b2bfba577c39.png.webp",
+            "https://c.dns-shop.ru/thumb/st1/fit/500/500/c1685a36e5000651b0cfddd1d3118331/c72b32d52ee77f063b1a0ff20fc95de01e45830b2d638e23a32515a47b6194ab.png.webp",
+            "https://c.dns-shop.ru/thumb/st1/fit/500/500/d90e6c44c3e18b6f4bd1f3556c490441/006f13b9073376262f41fdc71c24c018aeb3cd72e73ed90f014b66ab3ddde4b2.png.webp",
+            "https://c.dns-shop.ru/thumb/st1/fit/500/500/35ef3c4190951993f02166ef4751dd86/7a5d0c08cae290efddee2d0fb8c75508982c965155a5c913413325f6a12f7b5b.png.webp",
+            "https://c.dns-shop.ru/thumb/st1/fit/500/500/5a4608786716de4d210b08ea72311c95/13a07092039bb71d666424949f078f310784fb59f109bdbb2f6d8a85698d8884.png.webp"
+        ]
+    },
+    {
+        "id": 3,
+        "brand": "Samsung",
+        "title": "Телевизор Samsung",
+        "description": "Edge LED, 4K UltraHD, Wi-Fi, 60 Гц, Tizen",
+        "inDetail": "LED-телевизор Samsung UE43DU8500UXRU выполнен в тонком корпусе AirSlim. В нем установлен 43-дюймовый экран формата Ultra HD. Процессор Crystal 4K с алгоритмами искусственного интеллекта анализирует и улучшает изображение. Технология Dynamic Crystal Color обеспечивает натуральную передачу цветов и чистые глубокие оттенки. Функция Motion Xcelerator гарантирует плавную смену кадров при отображении динамичного изображения. Технология 4K Upscaling позволяет смотреть контент в формате 4K с разных источников.В телевизоре Samsung UE43DU8500UXRU реализована платформа Smart TV под управлением ОС Tizen. Она предоставляет доступ к развлекательным потоковым сервисам и приложениям. Для беспроводной синхронизации предлагаются интерфейсы Wi-Fi и Bluetooth. Акустическая система мощностью 20 Вт с технологией Dolby Digital Plus формирует объемное чистое звучание.",
+        "price": 37.299,
+        "imageUrl": [
+            "https://c.dns-shop.ru/thumb/st1/fit/500/500/010dd9958ff04799b10b272ff275f1df/6bc62b25bedbcc908542a38d0bd2558abc3ceb6cbb97e62917d25a203a1f89f8.jpg.webp",
+            "https://c.dns-shop.ru/thumb/st4/fit/500/500/7115cbf730c45b81686962db6e3eb40f/5d398f4548f793a47dc669e1cfaf6f09ed7210d361a98aa91c0d17e5b3e50e8e.jpg.webp",
+            "https://c.dns-shop.ru/thumb/st4/fit/500/500/59c5f735e07d00a3089542f0977f3283/5b9939ef9407ea7f9646777db3263f93d4da87def12f1b44571c7dff0c1eb651.jpg.webp",
+            "https://c.dns-shop.ru/thumb/st1/fit/500/500/8724b6e3c2dcd4b35e6ff72d45145edb/db736d26ced97a6b855b3eebba2b4be054eed32bf26679948fa3155546499afe.jpg.webp",
+            "https://c.dns-shop.ru/thumb/st1/fit/500/500/c236fbb8f5a66ca3c7180581a074d2d6/1629806cc5b061565042f259f4f1e1cb4ce253db8a852530d4ab5511b9132a60.jpg.webp"
+        ]
+    },
+    {
+        "id": 4,
+        "brand": "Samsung",
+        "title": "Смартфон Samsung",
+        "description": "A06 64 ГБ, ядер-8x(2 ГГц), 4ГБ, 2SIM, PLS, 1600x720",
+        "inDetail": "Расширьте возможности благодаря большому экрану Samsung Galaxy A06 диагональю 6,7 дюйма. Теперь просматривать контент стало еще удобнее благодаря плавной прокрутке с частотой 60 Гц и дисплею с U-вырезом и TFT-матрицей. Смартфон получил повышенный уровень комфорта благодаря уменьшенному с 8,8 мм до 8,0 мм корпусу. А классические цвета смартфонов подчеркнут вашу индивидуальность. Откройте для себя возможности камеры Galaxy A06 с разрешением 50 МП. Создавайте фотографии потрясающего качества с помощью камеры с датчиком глубины 2 МП — она придаст изображению дополнительный объем. А фронтальная камера 8 МП обеспечит безупречную четкость ваших снимков. Благодаря боковому сканеру отпечатков пальцев разблокировать смартфон просто как никогда. Вы также можете активировать функцию двойного нажатия для включения камеры или других часто используемых приложений. Занимайтесь любимым делом, не беспокоясь об аккумуляторе — Galaxy A06 работает еще дольше от одного заряда. А поддержка супербыстрой зарядки в считанные минуты наполнит его энергией.",
+        "price": 7.499,
+        "imageUrl": [
+            "https://c.dns-shop.ru/thumb/st1/fit/500/500/e11a892fbedf586ee02fe9067481bb72/eb7248a61a909cd441290fc12ed56b86e84f43b95daf78dcfe7af0f0b7fb596d.jpg.webp",
+            "https://c.dns-shop.ru/thumb/st1/fit/500/500/b38dd116c4f0edca1f1044420c6e561f/1affaa604eecdc8b6229b53f29fbf3b6e131a73eefff35ab74be5e087b320aa2.jpg.webp",
+            "https://c.dns-shop.ru/thumb/st1/fit/500/500/43a5162741b0b02faa5d4cbac2384125/1819ca2b812c447b1822cf65e1decce016ee5d6ed4ca712c381f602739a97672.jpg.webp",
+            "https://c.dns-shop.ru/thumb/st1/fit/500/500/ed9fb221deeb33bba055561142ca5b21/898fbf7190948d312c62b721654a86997375d741b570f70585ab09a2cca8c293.png.webp",
+            "https://c.dns-shop.ru/thumb/st1/fit/500/500/f22380668c5a5c752bb419432e2b8f73/cc05598fad11af85d975afad75d8d7d748258adb51afd3ba7a8e676c41931855.jpg.webp"
+        ]
+    },
+    {
+        "id": 5,
+        "brand": "Honor",
+        "title": "Ноутбук HONOR",
+        "description": "1920x1200, IPS, Intel Core i5-13420H, ядра: 4+4",
+        "inDetail": "Ноутбук HONOR MagicBook X 14 2024 Pro Fermi-G5851A выполнен в алюминиевом корпусе с толщиной 16.5 мм и весом 1.4 кг. Его удобно брать с собой в офис, на учебу, совещания, в поездки. Портативный компьютер работает под управлением ОС Windows 11 Home. Быстродействие в программах обеспечивается 8-ядерным процессором Intel Core i5-13420H и 8 ГБ оперативной памяти. Система охлаждения с вентилятором и медными тепловыми трубками поддерживает низкую температуру.В ноутбуке HONOR MagicBook X 14 2024 Pro Fermi-G5851A установлен экран диагональю 14 дюймов с разрешением FullHD. Благодаря 100% охвату цветовой гаммы sRGB и яркости 300 нит передаются натуральные оттенки. Сертификация TÜV Rheinland устраняет вредный синий свет и мерцание экрана, что снижает нагрузку на глаза. Функция «Динамическая яркость» автоматически регулирует яркость и уменьшает напряжение на зрение. Одного заряда аккумулятора хватает для 12 часов автономной работы ноутбука.",
+        "price": 53.999,
+        "imageUrl": [
+            "https://c.dns-shop.ru/thumb/st1/fit/500/500/5f397b99cd2dc8ab994877db5c60f9ed/96cdab882b6620a30446eae04f01604cf267dc12d4b63c8390417e7b3bdb4483.jpg.webp",
+            "https://c.dns-shop.ru/thumb/st1/fit/500/500/6dc6d65a97d7345ca214997732db58c7/acf07eff7c92e44aa977b9cd93cbcd375acb38b1e54db8c44a0e9e9141657fb1.jpg.webp",
+            "https://c.dns-shop.ru/thumb/st1/fit/500/500/b40c24b79cb1c69e264d3219b56f4c49/e5db767fb3dfc8a2060f14b6f5746e03fa85ae558a807d1ed6a4e5a8b56123a0.jpg.webp",
+            "https://c.dns-shop.ru/thumb/st1/fit/500/500/46bef7310573d07ccfb93d39c0fedc9b/ccf5353e8d914a8bcb9bdae09dda357682e05225dec12d17dc35c8f92fa6309f.jpg.webp",
+            "https://c.dns-shop.ru/thumb/st1/fit/500/500/c89bd65044465eee2573703b6f12c488/471ba90b374016588738c4cb5f17c8d6f5d9d2a2d7326772fef21fb321ed2ade.jpg.webp"
+        ]
+    },
+    {
+        "id": 6,
+        "brand": "Apple",
+        "title": "Смартфон Apple",
+        "description": "ядер-6x(3.23ГГц), 4ГБ, 1SIM, Super Retina XDR, 2532x1170",
+        "inDetail": "Смартфон Apple iPhone 13 оснащен 6.1-дюймовым дисплеем OLED – энергоэффективным и контрастным даже при ярком солнечном свете. А прочный корпус надежно защищен от воды и пыли.iPhone закончил киношколу за вас. Снимайте видео с малой глубиной резкости и красивыми автоматическими переводами фокуса – это добавит выразительности. Режим «Киноэффект» работает и с фронтальной камерой TrueDepth.Система двух камер 12+12 Мп – мощное обновление для отличных фото и видео. Широкоугольная камера, улавливающая больше света. Оптическая стабилизация изображения сдвигом матрицы. И еще больше деталей в темных областях кадра при съемке на сверхширокоугольную камеру. Благодаря диагональному размещению объективов широкоугольная камера и матрица стали больше.",
+        "price": 51.899,
+        "imageUrl": [
+            "https://c.dns-shop.ru/thumb/st1/fit/500/500/61f7965fa49ebbcd1fc5ccd2d2073680/93ba7a81a786695bdf44bb60000b82231d2c42bdddbb48c877cb0b559af6f608.jpg.webp",
+            "https://c.dns-shop.ru/thumb/st1/fit/500/500/c539d6cfe141bc0e0d70c74d5171abbb/300cdc947398056e717e5433257e002b0002ce381cf89de267ef0ce1705d66fb.jpg.webp",
+            "https://c.dns-shop.ru/thumb/st4/fit/500/500/92d65ca5e5e50d082c9247bce85531bf/18f210c3463d3fefb233b8cd5d59a32d1cc6548622591894fc0febb99e73e04d.jpg.webp",
+            "https://c.dns-shop.ru/thumb/st1/fit/500/500/a8423041704fc447e985e210d2170655/a784caa6d534c00752a7700a1415db9b22de48fc3509f0b3adfc88ead7bbd57d.jpg.webp"
+        ]
+    },
+    {
+        "id": 7,
+        "brand": "Samsung",
+        "title": "Телевизор Samsung",
+        "description": "Edge LED, 4K UltraHD, Wi-Fi, 60Гц, Tizen, HDMIх3, USBх1",
+        "inDetail": "Телевизор LED Samsung UE43AU7500UXCE представлен в узком черном корпусе с экраном 43”. Мощные динамики на 20 Вт с технологией Dolby Digital Plus порадуют громким и чистым звуком. Техника работает под управлением Tizen, открывая удобный доступ к настройкам и функциям Smart TV. Доступ в Интернет легко настраивается по LAN-порту или Wi-Fi.К телевизору Samsung UE43AU7500UXCE можно подключить мышь и клавиатуру через USB-порт или беспроводной модуль. 4K-разрешение с поддержкой HDR и технологией Digital Clean View поражает детальной и насыщенной картинкой. Вы можете активировать функцию эко-датчика, чтобы телевизор следил за освещением в комнате и сам настраивал яркость и контрастность изображения.",
+        "price": 41.999,
+        "imageUrl": [
+            "https://c.dns-shop.ru/thumb/st4/fit/500/500/60ebd41da8cb16ea6b11d36a9caa43cb/b8632bd8b77782688827889ac1e1469253688492bbde318418312be0c23ac133.jpg.webp",
+            "https://c.dns-shop.ru/thumb/st1/fit/500/500/2760f8ed077f7c90ce8eff218d0d82ac/e2398b244ee75ca3b4389be963568568c10d40a4c5323d118c28280c89f992ee.jpg.webp",
+            "https://c.dns-shop.ru/thumb/st1/fit/500/500/1976eb0931ceae3db73277371e1de370/380a87de8f182867dd8b5bfc0762f357c2da833353dce7cb27bec29178a2ef70.jpg.webp",
+            "https://c.dns-shop.ru/thumb/st1/fit/500/500/4aab4c2c55ebf836ee9a683d7da4398d/7c01fa5a08537d0c294f885a9f157d4a12a7d35220e31d9beed3124f33665049.jpg.webp",
+            "https://c.dns-shop.ru/thumb/st4/fit/45/45/13fd9ade0fdd7e3cf8b25cfd5828d25c/6e96a1af8ce14afff68c689928effc8ba722de62d0b0d052f621167c536827eb.jpg.webp",
+            "https://c.dns-shop.ru/thumb/st1/fit/500/500/10d82144b29363446c5b5129d3983b0e/5d6f2a12c7afe508bc6a91291500a2eab7366b7e4ba9be095ec763b820449372.jpg.webp"
+        ]
+    },
+    {
+        "id": 8,
+        "brand": "Apple",
+        "title": "Ноутбук Apple",
+        "description": "3024x1964, IPS, Apple M1Pro, ядра: 6+2, RAM 32ГБ",
+        "inDetail": "Ноутбук Apple MacBook Pro выполнен в алюминиевом корпусе серебристого цвета. Одновременно с компактными размерами и небольшим весом он отличается высокой вычислительной мощностью, необходимой для обработки требовательных задач и профессиональной деятельности. Аппаратная конфигурация представлена процессором Apple M1 Pro с 8 ядрами и 32 ГБ оперативной памяти, а под хранение файлов предлагается накопитель SSD 512 ГБ.",
+        "price": 144.499,
+        "imageUrl": [
+            "https://c.dns-shop.ru/thumb/st4/fit/500/500/98ff1adc85c1997200079e9c584e9523/9d346f313e61f979e4f72127328e600972d37a9c590013476181eaa6d535bf05.jpg.webp",
+            "https://c.dns-shop.ru/thumb/st4/fit/500/500/74dd6d260bf09a0f962d958d36433370/cb4a6e26e0ee58b85656d63054507ef0475d442c1e2a019e1518992a35874781.jpg.webp",
+            "https://c.dns-shop.ru/thumb/st4/fit/500/500/9eccfcb465634ab2e58036ee9c223596/e7249cdd90635a44e8c81e4d8626e3e51ed49aa2afcd79abb82f8bdd21e7f743.jpg.webp",
+            "https://c.dns-shop.ru/thumb/st1/fit/500/500/9505961271b6e2026814cef7f840ce61/461707598238430249149f69a27029b42fbcc1c3f010211fce6b9b485177ddf4.jpg.webp",
+            "https://c.dns-shop.ru/thumb/st4/fit/500/500/c51f314e655ffb715439d0ef51c908fe/8c4ad5c66061df6cf311caa6329b4e40ed121c278bfd3f2b954cd6b286bb48dd.jpg.webp",
+            "https://c.dns-shop.ru/thumb/st4/fit/500/500/269ecf975c761f9c59faa1c90cf808b3/0c5fc41091095270754a2baabe955adda0c3978ac3f576821f0575a51d229f54.jpg.webp"
+        ]
+    },
+    {
+        "id": 9,
+        "brand": "Samsung",
+        "title": "Смартфон Samsung",
+        "description": "ядер-8x(2ГГц), 6ГБ, 2SIM, PLS, 1600x720, камера 50+2Мп",
+        "inDetail": "Расширьте возможности благодаря большому экрану Samsung Galaxy A06 диагональю 6,7 дюйма. Теперь просматривать контент стало еще удобнее благодаря плавной прокрутке с частотой 60 Гц и дисплею с U-вырезом и TFT-матрицей. Смартфон получил повышенный уровень комфорта благодаря уменьшенному с 8,8 мм до 8,0 мм корпусу. А классические цвета смартфонов подчеркнут вашу индивидуальность. Откройте для себя возможности камеры Galaxy A06 с разрешением 50 МП. Создавайте фотографии потрясающего качества с помощью камеры с датчиком глубины 2 МП — она придаст изображению дополнительный объем. А фронтальная камера 8 МП обеспечит безупречную четкость ваших снимков. Благодаря боковому сканеру отпечатков пальцев разблокировать смартфон просто как никогда. Вы также можете активировать функцию двойного нажатия для включения камеры или других часто используемых приложений. Занимайтесь любимым делом, не беспокоясь об аккумуляторе — Galaxy A06 работает еще дольше от одного заряда. А поддержка супербыстрой зарядки в считанные минуты наполнит его энергией.",
+        "price": 10.999,
+        "imageUrl": [
+            "https://c.dns-shop.ru/thumb/st1/fit/500/500/3f233592fccac58e35510b1c514a37f7/430b917756f54030434920be0eec084d58379a1647fc354dbac72989f5296d5b.jpg.webp",
+            "https://c.dns-shop.ru/thumb/st1/fit/500/500/fb9a384b41cc32adfd31446eb13e46a4/d14969d877bf655a82d82f43adb267a8f066f33c16eb316ad6ca369d04cb432a.jpg.webp",
+            "https://c.dns-shop.ru/thumb/st1/fit/500/500/d45d442c74550341379f887c336c0050/95f0365fa4508d5135ab652cc9b4c11a28061dfb27a336651cf8cf11a08ffa28.jpg.webp",
+            "https://c.dns-shop.ru/thumb/st1/fit/500/500/7512c572892a5d42b97b5eddb73cc392/4095e3b5211885e3a8d739a118bc4020d5c8f74588fdb723cff6ab3faef2a123.jpg.webp",
+            "https://c.dns-shop.ru/thumb/st1/fit/500/500/fb14c82cfdcb19003f1fe54796af40e8/b0f7deb43bf4c96d057eb04177e2a48ef0a6942aee2f1e84fef3ce73cbcc089d.jpg.webp",
+            "https://c.dns-shop.ru/thumb/st1/fit/500/500/99362a6691d1193ef516ccd3c58c99ea/94b8ff8d5c6a8394424e6b835dc385d89bac6197fa71a8208e2901bbc9a64100.png.webp"
+        ]
+    },
+    {
+        "id": 10,
+        "brand": "Samsung",
+        "title": "Телевизор Samsung",
+        "description": "Edge LED, Dual LED, QLED, 4K UltraHD, Wi-Fi, 120Гц",
+        "inDetail": "Наслаждайтесь идеально плавным игровым процессом в разрешении 4K. Благодаря поддержке 120 герц даже самые динамичные сцены будут выглядеть чёткими и захватывающими. Телевизор Samsung QE43Q7FAAUXRU – это 43-дюймовый QLED-телевизор, который обеспечивает потрясающее качество изображения благодаря технологии Quantum Dot. Наслаждайтесь яркими и насыщенными цветами, высокой контрастностью и невероятной детализацией. Поддержка HDR делает изображение еще более реалистичным. Стильный дизайн и удобный интерфейс Smart TV. Идеальный выбор для вашей гостиной!",
+        "price": 74.999,
+        "imageUrl": [
+            "https://c.dns-shop.ru/thumb/st1/fit/500/500/b1061d8a81cb052185324f3ee4f3d2e3/6e110ef10d827af6eb86b64bb25296eeb313000de7016dd4699228306d4becae.jpg.webp",
+            "https://c.dns-shop.ru/thumb/st1/fit/500/500/96837e5bdbc2e09351abd73a7c0cc73a/5f49c72c2bb0c7179e2235d744a07531e29060e05e09c4ff573a460a99083944.jpg.webp",
+            "https://c.dns-shop.ru/thumb/st1/fit/500/500/a9ce2072e8aa6c384f8a6bab540519c6/e17c2f9e67317c31d1e4b434dc845ed452cc2078c6e7c99ac41578d672c02299.jpg.webp",
+            "https://c.dns-shop.ru/thumb/st1/fit/500/500/ce8ff5b911fb4bc6fdfd09a26e9c19de/85ad087b2832c7cc09200e49662384a6c75083665573f8700f278ee064978463.jpg.webp",
+            "https://c.dns-shop.ru/thumb/st1/fit/500/500/45ff6c887a5f5445d851bca0505dbd4a/f9d461c53df9010d8b8987191641d7526d5a19b3336125c01ab628a8df00d3f0.jpg.webp",
+            "https://c.dns-shop.ru/thumb/st1/fit/500/500/eb9e4984b76352e90d5aa0db3c9fe2d8/536c699ec3b437560e528789e23b4e1466e1aaeaf4c3f0fa877a377759017c2f.jpg.webp"
+        ]
+    },
+    {
+        "id": 11,
+        "brand": "Honor",
+        "title": "Ноутбук HONOR",
+        "description": "1920x1200, IPS, Intel Core i5-12450H, ядра: 4+4, RAM 16ГБ",
+        "inDetail": "Ноутбук HONOR MagicBook X 16 2024 Born-F5651C выполнен в алюминиевом корпусе серого цвета весом 1.75 кг. Аппаратная платформа с 8-ядерным процессором Intel Core i5-12450H и 16 ГБ оперативной памяти обеспечивает работу компьютера без зависаний при запуске программ, редактировании документов и изображений, серфинге в сети Интернет. В ноутбуке установлен 16-дюймовый экран. Благодаря матрице IPS с разрешением 1920x1200 пикселей и яркостью 300 кд/м² он обеспечивает четкое изображение с красочными цветами. Матовое покрытие исключает блики от источников света.Веб-камера с 720p HD подходит для редких созвонов по видеосвязи. Беспроводная синхронизация выполняется посредством технологий Wi-Fi и Bluetooth. Для подключения периферийных устройств на боковых гранях портативного компьютера HONOR MagicBook X 16 2024 Born-F5651C расположены порты USB Type-A и Type-C, видеовыход HDMI, аудиоразъемы. Одного заряда аккумулятора хватает до 9 часов автономной работы.",
+        "price": 44.999,
+        "imageUrl": [
+            "https://c.dns-shop.ru/thumb/st1/fit/500/500/d2d95adc18bf297022a2a498dceb3b2b/e00c36026e90afcc8597968848a692e24eb37eff05972148ba8f2726d7ff86e9.jpg.webp",
+            "https://c.dns-shop.ru/thumb/st1/fit/500/500/c7b25fc120d405a17b288915d74b4efe/d49d2d308b8c14c05de54da0895ea5b32861c582634e63c88f180bb16608d543.jpg.webp",
+            "https://c.dns-shop.ru/thumb/st1/fit/500/500/04d5176a709e6afccdf40649f9556743/23c14e0282c818c79c226d2aa25665a1a467b5351f1377a51df1040f7317187d.jpg.webp",
+            "https://c.dns-shop.ru/thumb/st4/fit/500/500/f525129cf5f9a1f2b4d2c48593cd7fa3/bd8dd7d859255fac4785676a372870dd6cfa56a50cfb37c78ff8ee9d5ae5c056.jpg.webp",
+            "https://c.dns-shop.ru/thumb/st4/fit/500/500/a0645743e0a2ee83bbf1f52780eb5192/a59feeba879bcd64c6941c3be6f214d2b6e83248da85b4aa99c2ff6e854b2d19.jpg.webp",
+            "https://c.dns-shop.ru/thumb/st4/fit/500/500/33f5f4f4a84ebb567e9db79b92aca9e1/5871e9793a145fac54919f49f4b48b3bb9dc378a40b8896621343ed328b55968.jpg.webp"
+        ]
+    },
+    {
+        "id": 12,
+        "brand": "Asus",
+        "title": "Моноблок F3402WFA",
+        "description": "AMD Ryzen 3 7320U, 4x2.4ГГц, IPS, Full HD (1920x1080), 8ГБ LPDDR5",
+        "inDetail": "Моноблок F3402WFA-WPC0140 с 4-ядерным процессором AMD Ryzen 3 и ОЗУ 8 ГБ подходит для решения повседневных задач. 23.8-дюймовый экран с разрешением Full HD удобен для просмотра фото и видео, работы с текстами. 256 ГБ на SSD-накопителе хватает для системных файлов, софта и хранения личных данных. Есть проводные и беспроводные интерфейсы для выбора удобного способа сетевого подключения и работы с периферийными устройствами.",
+        "price": 44.999,
+        "imageUrl": [
+            "https://c.dns-shop.ru/thumb/st1/fit/500/500/a4ce7668da566b72cd0edd8bf3bb1f51/09bae8c8c4699016a22616670d3e937b37445b826aa8ae1aef1d5c23756a9112.jpg.webp",
+            "https://c.dns-shop.ru/thumb/st1/fit/500/500/d7a778e50985d270891b9f30bf70034b/80fddf44085cf11e6b94ace4c7104b7b7c1f64dc76eba9b6385c7c1a51873409.jpg.webp",
+            "https://c.dns-shop.ru/thumb/st1/fit/500/500/5715eeffc788895975ae24e3d24f2cbf/e2f63af84cb3a942ef441ae358ae5a9cd46e7573bb1ec3e7c8021c162d68473a.jpg.webp",
+            "https://c.dns-shop.ru/thumb/st1/fit/500/500/73542d4e33c99e461fb15e1a0a1cab82/4d12a408e997cc2b6e5292926fbbb31e80e988c1e21aaa7601c78ba3b0126b83.jpg.webp",
+            "https://c.dns-shop.ru/thumb/st1/fit/500/500/73e1d33ba371c364fbdaaddf24574739/f09d3fbe64f0c2f0bbe931fab8e1a1592e98a459e5a72303438a5661746703c5.jpg.webp",
+            "https://c.dns-shop.ru/thumb/st1/fit/500/500/8201ddefd485a6de2d99d444910e6a2e/18292db78095de57c046cf3ed66a0679d16181aa158ca9af105e104e8faa2881.jpg.webp"
+        ]
+    },
+    {
+        "id": 13,
+        "brand": "Asus",
+        "title": "Ноутбук ASUS",
+        "description": "1920x1080, IPS, Intel Processor N100, 4, RAM 8ГБ, SSD 256ГБ",
+        "inDetail": "Этот ноутбук создан для тех, кто хочет получить компьютерное устройство с наиболее востребованным функционалом. Модель полностью удовлетворяет данным требованиям. Надежный накопитель предоставляет вам возможности для долговременного хранения необходимой виртуальной информации. Устройство оборудовано веб-камерой и микрофоном, благодаря которым вы сможете организовывать видеоконференции с партнерами по бизнесу и коллегами по работе.",
+        "price": 26.599,
+        "imageUrl": [
+            "https://c.dns-shop.ru/thumb/st1/fit/500/500/faeed3610e584cafd2fe8f079d1b365b/25093cf7497f04bae7137a029affaa8dbeb73eb02f48a095bf8ab66488183f9e.jpg.webp",
+            "https://c.dns-shop.ru/thumb/st1/fit/500/500/c7737149d2aad4c47cc69e7c5078d47e/7e19c75601cde517d032bc375e1f926c3f061f4806ccfc6b1e2b9863c3960268.jpg.webp",
+            "https://c.dns-shop.ru/thumb/st1/fit/500/500/82341a854e5943944c45759396714e4a/41970880266c0242ca9af4e36e1618176d74d2e7ca6ed4c5d2cf0a886fad3c85.jpg.webp",
+            "https://c.dns-shop.ru/thumb/st4/fit/500/500/22de9c3f7a4c67a21948bf5a221fde0f/fc336bce20561a696fd6f9acaedbdcad714d01eb3c59473e488faab0f34ca816.jpg.webp",
+            "https://c.dns-shop.ru/thumb/st1/fit/500/500/2c588d192d4ea00714e734e614fe8915/e64078fc5fd3a26c86a6def91316e4f6911d394042559235ee9ca969e955a5c7.jpg.webp",
+            "https://c.dns-shop.ru/thumb/st4/fit/500/500/d1ad3e0b754b131d1c8aa6891076b46d/4e279285b1b3f03121e95fb0a0be90d68f961d175572a1cb8af83b1fd7f89991.jpg.webp"
+        ]
+    },
+    {
+        "id": 14,
+        "brand": "Honor",
+        "title": "Смартфон HONOR",
+        "description": "ядер-8x(2.8ГГц), 6ГБ, 2SIM, TFT LCD, 1610х720, камера 108+2Мп",
+        "inDetail": "Тестирование под струей воды в течение трех минут подтверждает, что HONOR X7c легко выдерживает случайное попадание под дождь или даже падение в бассейн. Мощная батарея 5200 мА·ч обеспечивает длительную работу без подзарядки. При 2% заряда пользователям доступно до 55 минут звонков. Режим повышенной громкости подходит для прослушивания контента на улице. С HONOR X7c вы не пропустите ни один звонок, а музыка, видео и уведомления будут звучать громче и четче.HONOR X7c оснащен экраном с диагональю 6.77 дюйма с частотой обновления 120 Гц, а полезная площадь составляет 90.76%. Благодаря пиковой яркости 850 нит картинка на экране остается четкой при ярком солнечном свете. Процессор обладает высокой производительностью для игр, развлечений и работы с ресурсоемкими задачами.",
+        "price": 13.999,
+        "imageUrl": [
+            "https://c.dns-shop.ru/thumb/st1/fit/500/500/f91738db54cb61bb11b31d0352d5ab37/46a81722080de04541b7b448a335dfb9d9df62ddd21798e07ecd7fb46199c3d2.jpg.webp",
+            "https://c.dns-shop.ru/thumb/st1/fit/500/500/7ad3594754b1d448c80499d94b5e462e/3e4fc1a8d85724018546b031a5a5f73ce8e6f40dea43ed293ae0992a74de23a5.jpg.webp",
+            "https://c.dns-shop.ru/thumb/st1/fit/500/500/c8068719e29ef75fddf85541fb8ad424/763e901ad7645a4b7379398541d0dc8f3fba0622fe369515c5053abce6b8a272.jpg.webp",
+            "https://c.dns-shop.ru/thumb/st1/fit/500/500/a74a26eefcd62eb68182512e140c0202/93baed3ec0ec14ee8915bb5e052bf89541951323f6de372488ded71c16d34b01.jpg.webp",
+            "https://c.dns-shop.ru/thumb/st1/fit/500/500/84fb145ec0426dcb2c7c07b9fc85b1af/08c7ba0419f312b6415ab282d12ff1554b53fbf1a57e410b4822f6a1c5b9b672.jpg.webp",
+            "https://c.dns-shop.ru/thumb/st1/fit/500/500/de0ee6840647ff78936ea76b81fc18fa/a49d6c0805e986d61dba5ef0a84a43b7fcb6204686695710957c5d0ac8b442b1.jpg.webp"
+        ]
+    },
+    {
+        "id": 15,
+        "brand": "Samsung",
+        "title": "Телевизор Samsung",
+        "description": "Mini LED, QLED, 4K UltraHD, Wi-Fi, 144Гц, Tizen, HDMIх3",
+        "inDetail": "Телевизор LED Samsung QE43QN90DAUXRU представлен в тонком серебристом корпусе с 43-дюймовым экраном и подсветкой Mini LED. 4K-разрешение радует четкой передачей мелких деталей и оттенков. Технологии HDR улучшают яркость и контрастность, что позволяет наслаждаться реалистичными фильмовыми эффектами.",
+        "price": 97.999,
+        "imageUrl": [
+            "https://c.dns-shop.ru/thumb/st1/fit/500/500/9686643c5673507d76b5887161210494/9294e5295410cc810ad275f6f6d1337cd01bcb1d7f46157a21a326614cdc9303.jpg.webp",
+            "https://c.dns-shop.ru/thumb/st1/fit/500/500/29b580f5b98c22fa4b0644f3abfa00bf/6cf0a0ec4c06a5ea1083da88d641fe8b0a4b6b7ff74af7eb54437e669b115372.jpg.webp",
+            "https://c.dns-shop.ru/thumb/st1/fit/500/500/4d4c148c61372a2bd92d64ca04399a41/f6e61d349bfc0358cda4ded5e60d556c0b09d7f0602526684cecc1874a95c3a5.jpg.webp",
+            "https://c.dns-shop.ru/thumb/st1/fit/500/500/e3098ac1199dea5fac89a0418e285a17/4bfd768d39fee134151caee53436421bc465812863b4eca27d2b7858c0559fbe.jpg.webp",
+            "https://c.dns-shop.ru/thumb/st1/fit/500/500/7afc9989c279b8c8ec66446186c7de59/98394c8badeb6e6f7ceff1286dc4e39a67f44fb6fd68052db0e235c73647daba.jpg.webp",
+            "https://c.dns-shop.ru/thumb/st1/fit/500/500/eb9e4984b76352e90d5aa0db3c9fe2d8/536c699ec3b437560e528789e23b4e1466e1aaeaf4c3f0fa877a377759017c2f.jpg.webp"
+        ]
+    },
+    {
+        "id": 16,
+        "brand": "Asus",
+        "title": "Ноутбук ASUS",
+        "description": "1920x1080, IPS, Intel Core i3-1215U, ядра: 2+4, RAM 8ГБ",
+        "inDetail": "Ноутбук ASUS VivoBook 15 X1504ZA-BQ825 оснащен 15.6-дюймовым экраном Nanoedge с тонкой рамкой. Панель IPS FullHD с антибликовым покрытием гарантирует четкое красочное изображение и комфортный просмотр информации. Верхняя крышка с раскрытием до 180° и клавиатура ErgoSense с белой подсветкой символов обеспечивают удобную работу при разных условиях освещенности.Ноутбук ASUS VivoBook 15 X1504ZA-BQ825 выполнен в серебристом пластиковом корпусе с антимикробным покрытием Antimicrobial Guard Plus. Стабильная работа без зависаний достигается благодаря 6-ядерному процессору Intel Core i3-1215U, 8 ГБ оперативной памяти и накопителю SSD емкостью 512 ГБ. Акустическая система Dirac воспроизводит объемный чистый звук. До 60% заряд аккумулятора восстанавливается за 49 минут.",
+        "price": 35.499,
+        "imageUrl": [
+            "https://c.dns-shop.ru/thumb/st1/fit/500/500/83316132695f8ce58d1469c216120111/a929715354fbd65caa805d306687eb66259b8779f72c16fffb17b9d43574a07b.jpg.webp",
+            "https://c.dns-shop.ru/thumb/st1/fit/500/500/c7737149d2aad4c47cc69e7c5078d47e/7e19c75601cde517d032bc375e1f926c3f061f4806ccfc6b1e2b9863c3960268.jpg.webp",
+            "https://c.dns-shop.ru/thumb/st1/fit/500/500/82341a854e5943944c45759396714e4a/41970880266c0242ca9af4e36e1618176d74d2e7ca6ed4c5d2cf0a886fad3c85.jpg.webp",
+            "https://c.dns-shop.ru/thumb/st4/fit/500/500/22de9c3f7a4c67a21948bf5a221fde0f/fc336bce20561a696fd6f9acaedbdcad714d01eb3c59473e488faab0f34ca816.jpg.webp",
+            "https://c.dns-shop.ru/thumb/st1/fit/500/500/2c588d192d4ea00714e734e614fe8915/e64078fc5fd3a26c86a6def91316e4f6911d394042559235ee9ca969e955a5c7.jpg.webp",
+            "https://c.dns-shop.ru/thumb/st4/fit/500/500/a89b7308a5588de435e742d7cb6327ed/2628a8ed679e2bc6cb7513f1017039af13583c0a7797889ecebf74d0ed8f6484.jpg.webp"
+        ]
+    },
+    {
+        "id": 17,
+        "brand": "Apple",
+        "title": "Смартфон Apple",
+        "description": "ядер-6x(3.23ГГц), 6ГБ, 2SIM, Super Retina XDR, 2532x1170",
+        "inDetail": "Смартфон Apple iPhone 14 выполнен в корпусе голубого цвета и отличается защищенностью по стандарту IP68. В мобильном устройстве установлен безрамочный дисплей OLED 6.1 дюйма с воспроизведением реалистичного красочного изображения. Передняя панель обладает покрытием Ceramic Shield для защиты дисплея от появления царапин и различных дефектов.На тыловой стороне расположена сдвоенная камера 12+12 Мп со вспышкой True Tone и целым рядом режимов для фотографий и видео профессионального качества. Камера 12 Мп на передней стороне предназначена для селфи и видеосвязи. Режим Action mode с быстрой стабилизацией в кадре и технология Photonic Engine улучшают фотографии. В Apple iPhone 14 реализованы 5G, NFC, GPS, Bluetooth и Wi-Fi. Аккумулятор позволяет смартфону работать автономно длительное время и поддерживает функцию беспроводной зарядки.",
+        "price": 61.899,
+        "imageUrl": [
+            "https://c.dns-shop.ru/thumb/st4/fit/500/500/00932fbfbe8c0f6a9c1729f92323ce16/8b51c38a88b6a741d8484925edb177c35307277542c25f99353d9271684488f7.jpg.webp",
+            "https://c.dns-shop.ru/thumb/st1/fit/500/500/dd62e77074a28747034c542d355b2ad2/467762023d0ebe69ae530374a5c9dd3e5375b4ddb0e3d9f00b3605e580a3d394.jpg.webp",
+            "https://c.dns-shop.ru/thumb/st1/fit/500/500/8509d8d7e778789792bb980c6b377e1c/f551676e27cd6b477e89d38c4eec79823c6cc1967ca28051a48045bd5c3be799.jpg.webp",
+            "https://c.dns-shop.ru/thumb/st1/fit/500/500/b6636a536e52bd0a0ab9f61f4307dfc0/d1bbabf9ed2a49eadf99f489cf64351afe1bfd3b2d1cdb5523046983d1e3750d.jpg.webp",
+            "https://c.dns-shop.ru/thumb/st1/fit/500/500/55c0782eff6e1095442097e01b69cb8b/ad36d45ede90ddef40d6bc94810d92daa2192f08f01ba830db3991567a162cdd.jpg.webp"
+        ]
+    },
+    {
+        "id": 18,
+        "brand": "Asus",
+        "title": "Моноблок ASUS",
+        "description": "Intel Core i3-1315U, 2x1.2ГГц, IPS, Full HD (1920x1080)",
+        "inDetail": "В конфигурацию моноблочного компьютера ASUS E3 E3202WVA входит процессор Intel Core и скоростной модуль беспроводной связи Wi-Fi 802.11ax. Тонкорамочный дисплей NanoEdge с относительной площадью экрана до 91% может похвастать большими углами обзора (178°) и широким цветовым охватом (100% sRGB). Великолепное изображение дополнено качественным звуком – аудиосистема ASUS SonicMaster Premium поддерживает аудиоэффекты Dolby Atmos и двухстороннее шумоподавление на базе искусственного интеллекта.",
+        "price": 46.999,
+        "imageUrl": [
+            "https://c.dns-shop.ru/thumb/st1/fit/500/500/06fccb47865014982e2a65b7a1398c2b/c3a3b8fcd94cf56b2ea4d8d7a3024e23622aca11267329cdda3a60f5edc25889.jpg.webp",
+            "https://c.dns-shop.ru/thumb/st1/fit/500/500/c3a3dd814df83737b98c67aa5a252771/32728db5ecadcd7f9131939920542a44482ee753d91be4388c35b977578e0441.jpg.webp",
+            "https://c.dns-shop.ru/thumb/st1/fit/500/500/b0753fabd8194357484d9de54a6672d1/f8f096148b05d696d5a6fd8d8911c3850daad58b1d7a76f216835165480250c4.jpg.webp",
+            "https://c.dns-shop.ru/thumb/st1/fit/500/500/254477f62fd9a3796ea30dbd48a22c7e/fb01d9b42a19063d5ae6bd4275bc752c7f967f5c29853f73bcac0f3a8255ffe6.jpg.webp",
+            "https://c.dns-shop.ru/thumb/st1/fit/500/500/840bae7a6c97d80dedb4a2a717c16709/2b286fc3e248f5f18a1bce6fbf6d8c8b47070813e4096e67c931db9a15ee6ef0.jpg.webp",
+            "https://c.dns-shop.ru/thumb/st1/fit/500/500/dc42ef13946409796cdc2aa65e9d00fe/5f177ec241f4eb55188d3672c90049395f69f2a030dc113fe299964752c10013.jpg.webp"
+        ]
+    },
+    {
+        "id": 19,
+        "brand": "Apple",
+        "title": "Ноутбук Apple",
+        "description": "2560x1600, IPS, Apple M1, ядра: 4+4, RAM 8ГБ, SSD 256ГБ",
+        "inDetail": "Ноутбук Apple MacBook Air разработан с учетом динамичного образа жизни. Он предлагает широкие возможности для решения повседневных задач. Достаточно высокая производительность достигается благодаря процессору Apple M1 с 8 ядрами, 8 ГБ памяти ОЗУ и накопителю SSD 256 ГБ. На экране 13.3 дюйма IPS с разрешением 2560x1600 пикселей отображается четкая и красочная картинка.Клавиатура с белой LED-подсветкой и эргономичной раскладкой гарантирует удобство работы в программах в любое время суток. В портативном компьютере реализованы средства проводной и беспроводной коммуникации, среди которых: Type-C, Thunderbolt 3, Wi-Fi 6, Bluetooth 5.0. Для общения по видеосвязи предлагается веб-камера. Аккумулятор гарантирует до 18 часов автономности Apple MacBook Air и поддерживает стандарт ускоренной зарядки.",
+        "price": 70.199,
+        "imageUrl": [
+            "https://c.dns-shop.ru/thumb/st1/fit/500/500/b0d0d7cf9ef6a88765bbffa11e8a2a65/bc1311aa320af2e639161b8f6b03f01d7f1d915c9186421f8472626fcad1195a.jpg.webp",
+            "https://c.dns-shop.ru/thumb/st1/fit/500/500/03fcb2f1984b156aca075388b2448d95/fc0d293a2574fd61ded1c0f2d3f0be9043a328519f76edf344ba802357e8dc52.jpg.webp",
+            "https://c.dns-shop.ru/thumb/st4/fit/500/500/73b959843119a65cbd5ae81cfd2aab21/42c6800387903eeee8df589033fc074d2aa60422ab33c2515c4a1d979b8da084.jpg.webp",
+            "https://c.dns-shop.ru/thumb/st1/fit/500/500/93b5a3e519a9bf2249aeaf53ba5c1fc0/c3352a20b22910a8404f1b24001396e21f7b07c38ba45a097b65b70ebb893f90.jpg.webp",
+            "https://c.dns-shop.ru/thumb/st4/fit/500/500/251dab2485b28214201edf6b278d3eba/0b794ee3bfbb17422d78fb9281b4cd3e6cefdf7d9e9e69b9d88c907a27669746.jpg.webp",
+            "https://c.dns-shop.ru/thumb/st4/fit/500/500/43abba845bcb6e6054327e7b0b414d5d/77a36bb2a2b53b3aeee166c07ef165337b8f09540c99fda636ed4e488ee32c09.jpg.webp"
+        ]
+    },
+    {
+        "id": 20,
+        "brand": "Samsung",
+        "title": "Монитор Samsung",
+        "description": "Edge LED, 4K UltraHD, Wi-Fi, 60 Гц, Tizen, HDMI х 2, без ТВ-тюнера",
+        "inDetail": "Смарт-монитор LED Samsung S43BM700UI является следующим поколением модели S43AM700UI и отличается поддержкой SmartThings для управления умным домом. Он представлен в тонком черном корпусе со съемной центральной подставкой и 43-дюймовым экраном. 4K-разрешение с поддержкой технологии HDR10 радует четкой, яркой и гладкой картинкой с хорошей детализацией и плавностью в динамичных сценах. Вы можете использовать встроенные динамики на 20 Вт или подключать по Bluetooth внешнюю акустику.Samsung S43BM700UI работает под управлением Tizen, открывает удобный доступ к меню настроек и функций Smart TV. Доступ в Интернет открывается только с помощью Wi-Fi, поэтому вы не будете путаться в проводах. Смарт-монитор без ТВ-тюнера оснащен 2 HDMI-портами для подключения приставок. На корпусе есть 3 USB-разъема для просмотра файлов с внешних накопителей.",
+        "price": 28.999,
+        "imageUrl": [
+            "https://c.dns-shop.ru/thumb/st4/fit/500/500/4b7798a7633b951a5022aac5ef6735b2/682697fc526a8d71b827ea9c68aa95c017933f07edeb12cc4aa794347beb0801.jpg.webp",
+            "https://c.dns-shop.ru/thumb/st1/fit/500/500/7654c79ddc72250501ae29ea864cc80d/3e447a67962f3038591a4644819d4a6bf6dd5b36579bc00d98d96b6e84717740.jpg.webp",
+            "https://c.dns-shop.ru/thumb/st4/fit/500/500/e2f98ff997780b5bbe9447cc95bb92ea/ae9e819fa201a77cd95312753af68f8bbdad3436854585b1e8f9c50f8eeacb4f.jpg.webp",
+            "https://c.dns-shop.ru/thumb/st1/fit/45/45/f00e365b8b227daba08b71cdd7950ee9/f6fb4eded14c124ccf30032847cb82865da0dcb0a5065aae903e580681205fa9.jpg.webp",
+            "https://c.dns-shop.ru/thumb/st4/fit/500/500/2a8c0b4b450fab7be28ff31a8861124b/a75acdc7cb2b4744f4a7df09e9e43614a986bd225041b33c52a20edecbbb1876.jpg.webp",
+            "https://c.dns-shop.ru/thumb/st1/fit/500/500/2d8aadb1e1b8d255a0fa865c4d5843c0/835a093a326fa0b38c9928cea0085199b5daf77aef5c829e560a21b809cff274.jpg.webp"
+        ]
+    },
+    {
+        "id": 21,
+        "brand": "Honor",
+        "title": "Смартфон HONOR",
+        "description": "ядер-8x(2.8ГГц), 8ГБ, 2SIM, TFT LCD, 1610х720, камера 108+2Мп",
+        "inDetail": "Тестирование под струей воды в течение трех минут подтверждает, что HONOR X7c легко выдерживает случайное попадание под дождь или даже падение в бассейн. Мощная батарея 5200 мА·ч обеспечивает длительную работу без подзарядки. При 2% заряда пользователям доступно до 55 минут звонков. Режим повышенной громкости подходит для прослушивания контента на улице. С HONOR X7c вы не пропустите ни один звонок, а музыка, видео и уведомления будут звучать громче и четче.HONOR X7c оснащен экраном с диагональю 6.77 дюйма с частотой обновления 120 Гц, а полезная площадь составляет 90.76%. Благодаря пиковой яркости 850 нит картинка на экране остается четкой при ярком солнечном свете. Процессор обладает высокой производительностью для игр, развлечений и работы с ресурсоемкими задачами.",
+        "price": 14.999,
+        "imageUrl": [
+            "https://c.dns-shop.ru/thumb/st1/fit/500/500/d4221b672e5237b7737e7ccac852615d/ac3f17ad430a4a4a4dc68381e55b77fd5b90ea991b88f691b54af2afbbbcd8eb.jpg.webp",
+            "https://c.dns-shop.ru/thumb/st1/fit/500/500/a64ff61f75b7dd59d0fd232b481118a7/a078dc09c282d4b21480122609628810802a6f2c59be25424cf7dfdae1a9fa48.jpg.webp",
+            "https://c.dns-shop.ru/thumb/st1/fit/500/500/8b6a31dc7548ce2aca00b0bc6b69934c/59a5af5cf1d529e18e5055a47c99122659964a6d7bcc8ec1273eb9a43b45139f.jpg.webp",
+            "https://c.dns-shop.ru/thumb/st1/fit/500/500/75d24baadcb7be897ec016ac4e0fbad8/f0494714f716a6ed2bd36430851911cf861028cca308970c9a7c74734f660080.jpg.webp",
+            "https://c.dns-shop.ru/thumb/st1/fit/500/500/db9501bd43b80028319efe9cd5c898f9/96afeda8d39c2ef7a2b7766c296c2632d76338e9342a0752354648f17a670956.jpg.webp"
+        ]
+    },
+    {
+        "id": 22,
+        "brand": "Asus",
+        "title": "Моноблок ASUS",
+        "description": "Intel Core i3-1115G4, 2x3ГГц, IPS, Full HD (1920x1080)",
+        "inDetail": "Моноблок ASUS V241EAK-WA115M позволяет справляться с компьютерными задачами в офисе и дома – редактирование документов и файлов, веб-серфинг, просмотр мультимедиа. Он выполнен в элегантном стиле и оборудован экраном 23.8 дюйма. Панель IPS FullHD с цветовым охватом 100% sRGB обеспечивает красочное и четкое изображение. Благодаря тонкой рамке 2 мм относительная площадь экрана составляет 88%.Производительность аппаратной платформы ASUS V241EAK-WA115M обеспечивается процессором Core i3-1115G4 и 8 ГБ оперативной памяти. Динамики с фазоинверторами и аудиотехнология SonicMaster формируют реалистичный звук. Для подключения внешних устройств предлагаются видеовыходы HDMI, порты USB и сетевой коннектор LAN. Беспроводной доступ к Интернету возможен по Wi-Fi. Цельная алюминиевая подставка устойчиво размещает моноблок на столе и позволяет регулировать угол наклона для управления положением экрана.",
+        "price": 51.999,
+        "imageUrl": [
+            "https://c.dns-shop.ru/thumb/st4/fit/500/500/625b2f0019a9708052da35bf2fc30b2d/f2db0f0d0807a0bcd0650415a0a4193a4ebb8ade6981af1c2997a05d08fe7205.jpg.webp",
+            "https://c.dns-shop.ru/thumb/st1/fit/500/500/01749033d9b2b94003abb456c8a7e73d/ffa50cd6951e9eca6659c19b098c3018222181e4e4f72066c658076551d48313.jpg.webp",
+            "https://c.dns-shop.ru/thumb/st4/fit/500/500/55131b83863edf3baed9eb25d4749b9d/a26d98f6763b37e5890e42062e67f1d2440624d15518bbf0c60b60da5c9b621f.jpg.webp",
+            "https://c.dns-shop.ru/thumb/st1/fit/500/500/d583db3e8f8dfeb24f0214d76af90ee6/ef646f45643795707e07e52bad773318b2efaf9a6c0d52ff0b2c095d087c3784.jpg.webp",
+            "https://c.dns-shop.ru/thumb/st1/fit/500/500/2032120e053f36864d5851ac1114f7c5/683026a6c366fb82adc9f2ceee2db2d9070d76ddaaa9222d7a946ea15ed97937.jpg.webp"
+        ]
+    },
+    {
+        "id": 23,
+        "brand": "Apple",
+        "title": "Ноутбук Apple",
+        "description": "2560x1664, IPS, Apple M2 8-core, ядра: 4+4, RAM 8ГБ",
+        "inDetail": "Apple MacBook Air (M2, 2022) — ультратонкий и легкий ноутбук, объединяющий элегантный дизайн и высокую производительность. Благодаря энергоэффективности и бесшумной работе он отлично подходит для повседневных задач, работы и творчества. Это стильное и надежное устройство для тех, кто ценит удобство и качество. Он предлагает широкие возможности для решения повседневных задач. Достаточно высокая производительность достигается благодаря процессору Apple M1 с 8 ядрами, 8 ГБ памяти ОЗУ и накопителю SSD 256 ГБ. На экране 13.3 дюйма IPS с разрешением 2560x1600 пикселей отображается четкая и красочная картинка.Клавиатура с белой LED-подсветкой и эргономичной раскладкой гарантирует удобство работы в программах в любое время суток. В портативном компьютере реализованы средства проводной и беспроводной коммуникации, среди которых: Type-C, Thunderbolt 3, Wi-Fi 6, Bluetooth 5.0. Для общения по видеосвязи предлагается веб-камера. Аккумулятор гарантирует до 18 часов автономности Apple MacBook Air и поддерживает стандарт ускоренной зарядки.",
+        "price": 91.99,
+        "imageUrl": [
+            "https://c.dns-shop.ru/thumb/st1/fit/500/500/959162c62d3d982943afa5d0ae0ac57c/1645458fd50667764b2082c7d0caa6d96c1cafb094adb95a7a8f6570d2400800.png.webp",
+            "https://c.dns-shop.ru/thumb/st1/fit/500/500/5dba5d239c8c875786f7d2c02ca12c63/1fbf8288ac09cb13dccf35fb2d3b4ac9235453b04fa4ac82f3a111910962b2a3.png.webp",
+            "https://c.dns-shop.ru/thumb/st1/fit/500/500/9ac13be5d9adfe0f4178ca762e0a4303/475ec9ba2a6f642862a8c1fe315cfcbc3408f62dec3162488dcd04591a7cc7de.png.webp",
+            "https://c.dns-shop.ru/thumb/st1/fit/500/500/ace12fc2999bab09da90c9f7a31e0911/8db7e0379c5dc5a3b72d1cacb0552442cedb40f87a7cf0a764b8d0672481708a.png.webp",
+            "https://c.dns-shop.ru/thumb/st4/fit/500/500/082634eb4409b22a6a5acd165dfaaa93/7325c327c8c139e4e226d602642f24b4d8b5cc8cfb67139e436eef0ea0d46ae5.jpg.webp"
+        ]
+    },
+    {
+        "id": 24,
+        "brand": "Apple",
+        "title": "Смартфон Apple",
+        "description": "ядер-6x(3.23ГГц), 6ГБ, 1SIM, Super Retina XDR, 2532x1170",
+        "inDetail": "Встречайте смартфон Apple iPhone 14. С функцией распознавания аварий. Большим сроком службы батареи. И еще более впечатляющими снимками при слабом освещении. Apple iPhone 14 может обнаружить серьезную автомобильную аварию, а затем позвонить в службу экстренной помощи и уведомить ваши контакты для экстренных случаев.Улучшенные основная камера и алгоритмы обработки изображений позволяют делать еще более поразительные снимки при любом освещении, особенно слабом. Снимаете ли вы во время пробежки по каменистой тропе или ваших играющих детей в парке – попробуйте режим Action для плавного видео без тряски.Сверхскоростной чип с 5-ядерным графическим процессором поддерживает все передовые функции и делает игры и приложения дополненной реальности невероятно плавными. Обновленная конструкция обеспечивает лучшую тепловую эффективность, поэтому скорость работы чипа не уменьшается при нагрузках.",
+        "price": 61.899,
+        "imageUrl": [
+            "https://c.dns-shop.ru/thumb/st1/fit/500/500/676f852b5ec3a1f7ea616a6ba11a366b/1b9679a9c416ca03d433aca2238ef60c4bd5c676be1e1db4189f577924dac1fe.jpg.webp",
+            "https://c.dns-shop.ru/thumb/st1/fit/500/500/f808251c5e3e942a73106f791a7be8a6/a3dbfba0fc93641d19270d1a06f48dd4548a33ca1c31a097d007c704a1607ef8.jpg.webp",
+            "https://c.dns-shop.ru/thumb/st1/fit/500/500/dcd3a100cd6557cae68fd448f86cb425/52addda4551b1ffbcaaadf688a685f170e4d581d2c8950f04acf1f3d225786bd.jpg.webp",
+            "https://c.dns-shop.ru/thumb/st4/fit/500/500/1b62d26ccaab5b9b053975033480a7e8/1c51c78788c60c48375f19521ef2af82a438c1589d710a2730f9bec545f2db33.jpg.webp",
+            "https://c.dns-shop.ru/thumb/st4/fit/45/45/91fb6be22a740869bb5e43c8277f0e00/7486ee7bf7176689eb30334d1ee32bcba43e15d466ee2e0028e75b47162f1070.jpg.webp",
+            "https://c.dns-shop.ru/thumb/st1/fit/500/500/544e9b6a03bd5f512d38bc0609023e49/46194756806093a0f58af463623159a60dd0d2d83f161772540a1b48d06765e9.jpg.webp"
+        ]
+    },
+    {
+        "id": 25,
+        "brand": "Samsung",
+        "title": "Телевизор Samsung",
+        "description": "OLED, QLED, 4K UltraHD, Wi-Fi, 144Гц, Tizen, HDMI 4, USBх2 шт",
+        "inDetail": "Телевизор Samsung QE65S90DAUXRU с панелью 65 дюймов OLED обеспечивает реалистичную картинку с глубокими оттенками. 4K-разрешение радует четкой передачей мелких деталей и оттенков. Технологии HDR улучшают яркость и контрастность, что позволяет наслаждаться реалистичными фильмовыми эффектами.",
+        "price": 139.999,
+        "imageUrl": [
+            "https://c.dns-shop.ru/thumb/st1/fit/500/500/12d1c31d3f2da364dd6501f0797dd810/bbf630861d6e4608cb6ac6860b7b2fe8456b5e7bfac8ce20569eeae6f86d52e8.jpg.webp",
+            "https://c.dns-shop.ru/thumb/st1/fit/500/500/309f644ca3a59d5ad6da5d624a7660ce/58cce563901579a6a9c8c945452347ef31c5f8fb554881e9091794c268f7281e.jpg.webp",
+            "https://c.dns-shop.ru/thumb/st1/fit/500/500/2b0f1a56debf1aeaa91e645feded0252/c71e4cd0d11700862d62980d2929892336120eeca6dd3626332e03150e9030e6.jpg.webp",
+            "https://c.dns-shop.ru/thumb/st1/fit/500/500/8e28c5419142dcfc5f85ef9fbcd44fd1/dacb04a7c6ab6ecc92434b4c54593c805f642c608dc81d26921f5a937a95498c.jpg.webp",
+            "https://c.dns-shop.ru/thumb/st1/fit/500/500/43ae6b71d6da6fe26f1821b3e49104bb/bb862498cc48359303ae503acb379f62272306f452429cfd8372b527e014a657.jpg.webp",
+            "https://c.dns-shop.ru/thumb/st1/fit/500/500/c8ae5030d7afa971c4a604e4060e1add/9cc3213c348e8f25141f36a6483f41f2fff385c8876ab704ba773961bcd63eab.jpg.webp"
+        ]
+    },
+    {
+        "id": 26,
+        "brand": "Asus",
+        "title": "Ноутбук ASUS",
+        "description": "1920x1080, IPS, Intel Core i3-1315U, ядра: 2+4, RAM 8ГБ",
+        "inDetail": "ASUS ExpertBook P1503CVA — это ноутбук, созданный для профессионалов, которым требуется надежное и производительное устройство. Он оснащен процессорами Intel Core 13-го поколения, дисплеем Full HD с антибликовым покрытием, оперативной памятью DDR5 до 64 ГБ и SSD-накопителем PCIe 4.0. Устройство поддерживает Wi-Fi 6 и Bluetooth 5.3, имеет встроенную HD-камеру с шторкой для конфиденциальности, а также аудиосистему Dirac.",
+        "price": 15.499,
+        "imageUrl": [
+            "https://c.dns-shop.ru/thumb/st1/fit/500/500/a1ef5de33b7d2cd9e9d64c4d715461f6/3cd12859670aab6c04fc97d9dd416ec060f29005968a491735511c19b3c56dac.jpg.webp",
+            "https://c.dns-shop.ru/thumb/st1/fit/500/500/663d08184c7455af234c9d349a1a3456/151e2d83520e08d01d6bdb2f87cbcb49056d39b0aa0851805dfd2ff53f74cab2.jpg.webp",
+            "https://c.dns-shop.ru/thumb/st1/fit/500/500/b7a14e3c36fd864650e61c928300a88b/3a83409b7c7dfc298d0a6c1b8ff21a6c5d5a62afc09f0a6b274d6b343042b3b1.jpg.webp",
+            "https://c.dns-shop.ru/thumb/st1/fit/500/500/80981639a2276d5243e565c4e572e170/b51b8d70d6c54cf48832968c0081ba52a32bb1d4b9eaddc94a1fc4f72de7e898.jpg.webp",
+            "https://c.dns-shop.ru/thumb/st1/fit/500/500/e3ce118336d9b007f9e6a3301eb0ae1a/f2e91d71c7e083a0599b27973ef9f208837e222fa8a2a4394c1d4c32bf22f326.jpg.webp",
+            "https://c.dns-shop.ru/thumb/st1/fit/500/500/b96958fbc2b7fb6264185ad046221e76/1dc33419aabe728634042ccaa16d76d701a038cf25a4d3b4ec4d209106a832ba.jpg.webp"
+        ]
+    },
+    {
+        "id": 27,
+        "brand": "Honor",
+        "title": "Смартфон HONOR",
+        "description": "ядер-8x(2.4ГГц), 8ГБ, 2 SIM, AMOLED, 2412x1080, камера 108+5+2Мп",
+        "inDetail": "Смартфон HONOR X8b представлен в пластиковом корпусе черного цвета. На экране диагональю 6.7 с технологией AMOLED отображается четкая и красочная картинка. Для быстродействия всей системы задействованы процессор Qualcomm Snapdragon 680 с 8 вычислительными ядрами и 8 ГБ оперативной памяти. Под хранение файлов предусмотрено 256 ГБ памяти.Камера с основным датчиком 108 Мп, сверхширокоугольным сенсором 5 Мп и датчиком глубины резкости 2 Мп способна делать реалистичные снимки. Фронтальная камера 50 Мп со вспышкой предназначена для селфи. Встроенный в боковую грань сканер отпечатков пальцев гарантирует разблокировку экрана касанием. За автономную работу смартфона HONOR X8b отвечает аккумулятор емкостью 4500 мА*ч. Он поддерживает стандарт ускоренного восстановления энергоресурса HONOR SuperCharge 35W.",
+        "price": 139.999,
+        "imageUrl": [
+            "https://c.dns-shop.ru/thumb/st4/fit/500/500/046595ccad119cdcf762e26c57eeffdf/aa8078cfab5c0115f4433695358c594fc2c6de418d0ec463cf6d2d1fce844ece.jpg.webp",
+            "https://c.dns-shop.ru/thumb/st1/fit/500/500/04a1dc07a3c3267895feaedb5b10de1f/4c3e96e188ab255c310798633f142b0f016663108ddf2c7fa29d658cd6dfc282.jpg.webp",
+            "https://c.dns-shop.ru/thumb/st1/fit/500/500/398f7b744b1706e9062cabc0d51a27a8/2a5d90bf9a9d72ab040d02f594fee461dc8a47582ca136de85f59fcc5555c9a4.jpg.webp",
+            "https://c.dns-shop.ru/thumb/st1/fit/500/500/75c7ff2522833548825f77b860ee8bfe/77880887797c23dd7af6ee26dd7d6e6b2945872a6a7af7e85477a91f890b3105.jpg.webp",
+            "https://c.dns-shop.ru/thumb/st4/fit/500/500/a1d9c374410e4b1ca475433fcf8c9a65/79f383a4a4bc3b1116fea2bd312ab040032c3ff28d93475e3d9e196fa5fec7fe.jpg.webp",
+            "https://c.dns-shop.ru/thumb/st4/fit/500/500/1662f47ed2e10632e88fc5549df52189/4ec86aa43bd72d71cbf68c5180c95a6c841bad0aff31823622145bb5b9324bab.jpg.webp"
+        ]
+    },
+    {
+        "id": 28,
+        "brand": "Apple",
+        "title": "Смартфон Apple",
+        "description": "ядер-6x(3.23ГГц), 6ГБ, 2SIM, Super Retina XDR, 2532x1170",
+        "inDetail": "Телевизор Samsung QE65S90DAUXRU с панелью 65 дюймов OLED обеспечивает реалистичную картинку с глубокими оттенками. 4K-разрешение радует четкой передачей мелких деталей и оттенков. Технологии HDR улучшают яркость и контрастность, что позволяет наслаждаться реалистичными фильмовыми эффектами.",
+        "price": 61.899,
+        "imageUrl": [
+            "https://c.dns-shop.ru/thumb/st1/fit/500/500/7f25e2d5c760859d94b6593181563c36/9450eece1c45d671e5d04fcfcb04dd220e8c603dddfdf7390f0709c5de85adec.jpg.webp",
+            "https://c.dns-shop.ru/thumb/st1/fit/500/500/ee0f98873d4fb7aeea19898687f299d0/9d04a35b384a674cf528b3e81c8c479386967325a6f4b07228fd8ac8e4f7bcad.jpg.webp",
+            "https://c.dns-shop.ru/thumb/st1/fit/500/500/7267eb2c90120bd9425dd2615fd5b51c/fdea13a3f4bdebd3e207a4d44256afa998c925f210cd00a95bd25c27b425ad9d.jpg.webp",
+            "https://c.dns-shop.ru/thumb/st1/fit/500/500/fb73eb585e49142836d8eac74b9bd17b/89e9a07b754ab6f2b212689dda69ec4939188ddbbb85df2364194358f9ac4c69.jpg.webp",
+            "https://c.dns-shop.ru/thumb/st1/fit/500/500/c3e119a09b082b6ea2faee21ce2e439f/596db350e0941454c755ada5d8cc55cee247072ed3baf3dda005e56ff83628d1.jpg.webp",
+            "https://c.dns-shop.ru/thumb/st1/fit/500/500/91943615247371450e61b8316550158c/ffa7c07122bc196f3d03f42b4b980f955a7302290d78505da6b000aa43405e28.jpg.webp"
+        ]
+    },
+    {
+        "id": 29,
+        "brand": "Apple",
+        "title": "Ноутбук Apple",
+        "description": "3024x1964, IPS, Apple M2 Pro, ядра: 8+4, RAM 16ГБ",
+        "inDetail": "Apple MacBook Pro 14 2023 - идеально подходит для профессионалов в любых областях и сферах. Он сделает вашу работу более продуктивной за счет повышенной производительности, времени автономной работы и возможностей подключения. Он выполнен в тонком и легком корпусе из алюминия в серебристой расцветке. Мобильный компьютер позволяет работать, создавать документы и проекты, увлекательно проводить свободное время. В нем установлены процессор Apple M2, 8 ГБ системной памяти стандарта LPDDR5, накопитель SSD объемом 256 ГБ.Экран IPS 13.6 дюймов (2560x1664 пикселей) отображает четкое изображение с насыщенными и яркими цветами. Благодаря встроенному датчику освещенности яркость дисплея настраивается в автоматическом режиме. Акустическая система со стереодинамиками воспроизводит чистый насыщенный звук. Клавиатура с эргономичной раскладкой и белой подсветкой LED гарантирует комфортную работу. Аккумулятор обладает автономностью до 20 часов на одном заряде и поддерживает стандарт Power Delivery.",
+        "price": 152.799,
+        "imageUrl": [
+            "https://c.dns-shop.ru/thumb/st1/fit/500/500/61325678302215a2d73748c4dcbd2e35/a6b2ef3cca147194dea71a78cb070d5423d891d03da88ed557a6c0bad47c8a1a.jpg.webp",
+            "https://c.dns-shop.ru/thumb/st1/fit/500/500/fe9d2b674f725493f67d895efc867c80/9f4d06be9865579382e48da0e2416ccc1412f235fedd76285e3a09fbb66a6584.jpg.webp",
+            "https://c.dns-shop.ru/thumb/st4/fit/500/500/c6b9465eafa1f1050da8d450d07b7dd8/9450993c78c578510dfdcb35813c46f73ac57025b7a293d7709fb5b3fe805208.jpg.webp",
+            "https://c.dns-shop.ru/thumb/st4/fit/500/500/d48a6b96d86d040fd9b68fccea9987ee/f88ca14f31678c34facf2cb0b18045eacd71783fbfeb2fa10e6e17615eadd6ed.jpg.webp",
+            "https://c.dns-shop.ru/thumb/st1/fit/500/500/133c841809d1ec6ed1388056bb160fba/8c58575b291125e973e7d3780fa93d0774367be3eb56303941a97b468fb61219.png.webp"
+        ]
+    },
+    {
+        "id": 30,
+        "brand": "Asus",
+        "title": "Моноблок ASUS",
+        "description": "Intel Core i5-1235U, 2x1.3ГГц, IPS, Full HD (1920x1080), 16ГБ DDR4",
+        "inDetail": "В конфигурацию моноблочного компьютера ASUS E3402WBA-WPC006M входит процессор Intel Core i5-1235U, твердотельный накопитель емкостью 512 ГБ и скоростной двухдиапазонный модуль беспроводной связи Wi-Fi 6. Тонкорамочный дисплей может похвастать большими углами обзора (178°) и широким цветовым охватом (100% sRGB). Великолепное изображение дополнено качественным звуком – аудиосистема ASUS SonicMaster Premium поддерживает аудиоэффекты Dolby Atmos и двухстороннее шумоподавление на базе искусственного интеллекта.При создании облика моноблочного компьютера ASUS E3402WBA-WPC006M дизайнеры и инженеры ASUS старались минимизировать число отвлекающих деталей, но при этом сделать его максимально удобным в использовании. Изящная и прочная подставка позволяет легко задать комфортный угол наклона экрана. Красивый дизайн, изюминкой которого является V-образный узор на задней панели, идеально впишется в обстановку дома.",
+        "price": 67.999,
+        "imageUrl": [
+            "https://c.dns-shop.ru/thumb/st1/fit/500/500/792d3e266a5e5aeaa79fad187a337db0/ba412acd86b32c2fbe527ec7468928451ad30cc49cf9d8ec07ac083f1f44823a.jpg.webp",
+            "https://c.dns-shop.ru/thumb/st1/fit/500/500/f16911f59dc546db9e82b8a96c5fd569/244c7f3f7d9b535bd478d9e11df14bdbf260315390f076f5e5a0b204838ad8b9.jpg.webp",
+            "https://c.dns-shop.ru/thumb/st1/fit/500/500/a78bbe3a0c5dc0496294ae75e2ae24d4/0051a9fb1c1159beeeac0a2b5adcf944c9f6a7a26425787a8e57e3c06bbf34e4.jpg.webp",
+            "https://c.dns-shop.ru/thumb/st1/fit/500/500/4a7f989ff679838463e4234248f856ea/f124cf9afb3a1ce95b207049d2626dba20205c5caf5ade36d8d0a9fa99cc9017.jpg.webp",
+            "https://c.dns-shop.ru/thumb/st1/fit/500/500/41cd1c803ac9ae38724a031eda308c46/ccd21a1ac99d04c20850241cfcf4439642db9cf8c5b5d1b8753cd6fb02e040f6.jpg.webp"
+        ]
+    },
+    {
+        "id": 31,
+        "brand": "Apple",
+        "title": "Ноутбук Apple",
+        "description": "3024x1964, IPS, Apple M2 Pro, ядра: 8+4, RAM 16ГБ",
+        "inDetail": "Apple MacBook Pro 14 2023 - идеально подходит для профессионалов в любых областях и сферах. Он сделает вашу работу более продуктивной за счет повышенной производительности, времени автономной работы и возможностей подключения. Он выполнен в тонком и легком корпусе из алюминия в серебристой расцветке. Мобильный компьютер позволяет работать, создавать документы и проекты, увлекательно проводить свободное время. В нем установлены процессор Apple M2, 8 ГБ системной памяти стандарта LPDDR5, накопитель SSD объемом 256 ГБ.Экран IPS 13.6 дюймов (2560x1664 пикселей) отображает четкое изображение с насыщенными и яркими цветами. Благодаря встроенному датчику освещенности яркость дисплея настраивается в автоматическом режиме. Акустическая система со стереодинамиками воспроизводит чистый насыщенный звук. Клавиатура с эргономичной раскладкой и белой подсветкой LED гарантирует комфортную работу. Аккумулятор обладает автономностью до 20 часов на одном заряде и поддерживает стандарт Power Delivery.",
+        "price": 152.799,
+        "imageUrl": [
+            "https://c.dns-shop.ru/thumb/st1/fit/500/500/61325678302215a2d73748c4dcbd2e35/a6b2ef3cca147194dea71a78cb070d5423d891d03da88ed557a6c0bad47c8a1a.jpg.webp",
+            "https://c.dns-shop.ru/thumb/st1/fit/500/500/fe9d2b674f725493f67d895efc867c80/9f4d06be9865579382e48da0e2416ccc1412f235fedd76285e3a09fbb66a6584.jpg.webp",
+            "https://c.dns-shop.ru/thumb/st4/fit/500/500/c6b9465eafa1f1050da8d450d07b7dd8/9450993c78c578510dfdcb35813c46f73ac57025b7a293d7709fb5b3fe805208.jpg.webp",
+            "https://c.dns-shop.ru/thumb/st4/fit/500/500/d48a6b96d86d040fd9b68fccea9987ee/f88ca14f31678c34facf2cb0b18045eacd71783fbfeb2fa10e6e17615eadd6ed.jpg.webp",
+            "https://c.dns-shop.ru/thumb/st1/fit/500/500/bea5b4d97114ad1669aafa669fb4332c/d6b343772e41b91139d7c771282465c51e226d835ed04a4eae8d5a727a3c2579.png.webp"
+        ]
+    },
+    {
+        "id": 32,
+        "brand": "Asus",
+        "title": "Моноблок ASUS",
+        "description": "Intel Core i5-1235U, 2x1.3ГГц, IPS, Full HD (1920x1080), 16ГБ DDR4",
+        "inDetail": "В конфигурацию моноблочного компьютера ASUS E3402WBA-WPC006M входит процессор Intel Core i5-1235U, твердотельный накопитель емкостью 512 ГБ и скоростной двухдиапазонный модуль беспроводной связи Wi-Fi 6. Тонкорамочный дисплей может похвастать большими углами обзора (178°) и широким цветовым охватом (100% sRGB). Великолепное изображение дополнено качественным звуком – аудиосистема ASUS SonicMaster Premium поддерживает аудиоэффекты Dolby Atmos и двухстороннее шумоподавление на базе искусственного интеллекта.При создании облика моноблочного компьютера ASUS E3402WBA-WPC006M дизайнеры и инженеры ASUS старались минимизировать число отвлекающих деталей, но при этом сделать его максимально удобным в использовании. Изящная и прочная подставка позволяет легко задать комфортный угол наклона экрана. Красивый дизайн, изюминкой которого является V-образный узор на задней панели, идеально впишется в обстановку дома.",
+        "price": 67.999,
+        "imageUrl": [
+            "https://c.dns-shop.ru/thumb/st1/fit/500/500/792d3e266a5e5aeaa79fad187a337db0/ba412acd86b32c2fbe527ec7468928451ad30cc49cf9d8ec07ac083f1f44823a.jpg.webp",
+            "https://c.dns-shop.ru/thumb/st1/fit/500/500/42212bca12aef2d08ad29480b398e32c/bc27adffedc8931cb2173bf32ec65272bb9098e1f695c504a602fb73a4b57d6b.png.webp",
+            "https://c.dns-shop.ru/thumb/st1/fit/500/500/3d0713ece97a220010e71021f27f54a8/e10ce9681702fe10566da71e0de00dbae4fd580f6d38f01f44a913ca89c8ad8f.png.webp",
+            "https://c.dns-shop.ru/thumb/st1/fit/500/500/05bf6da08021a7d990c4dae11cd59e2b/6f7c81140837fd5895616c22522646d0ce04d8716ec0f275631ff3969088cd57.png.webp",
+            "https://c.dns-shop.ru/thumb/st1/fit/500/500/27e98ff772d18fdb65e44ce98d349b4c/c76a5b78c0cdf5a8531c562d2e0ebad3572a5f29d64667cc3f08c71ae6765aa9.png.webp"
+        ]
+    },
+    {
+        "id": 33,
+        "brand": "Apple",
+        "title": "Ноутбук Apple",
+        "description": "3024x1964, IPS, Apple M2 Pro, ядра: 8+4, RAM 16ГБ",
+        "inDetail": "Apple MacBook Pro 14 2023 - идеально подходит для профессионалов в любых областях и сферах. Он сделает вашу работу более продуктивной за счет повышенной производительности, времени автономной работы и возможностей подключения. Он выполнен в тонком и легком корпусе из алюминия в серебристой расцветке. Мобильный компьютер позволяет работать, создавать документы и проекты, увлекательно проводить свободное время. В нем установлены процессор Apple M2, 8 ГБ системной памяти стандарта LPDDR5, накопитель SSD объемом 256 ГБ.Экран IPS 13.6 дюймов (2560x1664 пикселей) отображает четкое изображение с насыщенными и яркими цветами. Благодаря встроенному датчику освещенности яркость дисплея настраивается в автоматическом режиме. Акустическая система со стереодинамиками воспроизводит чистый насыщенный звук. Клавиатура с эргономичной раскладкой и белой подсветкой LED гарантирует комфортную работу. Аккумулятор обладает автономностью до 20 часов на одном заряде и поддерживает стандарт Power Delivery.",
+        "price": 152.799,
+        "imageUrl": [
+            "https://c.dns-shop.ru/thumb/st1/fit/500/500/61325678302215a2d73748c4dcbd2e35/a6b2ef3cca147194dea71a78cb070d5423d891d03da88ed557a6c0bad47c8a1a.jpg.webp",
+            "https://c.dns-shop.ru/thumb/st1/fit/500/500/fe9d2b674f725493f67d895efc867c80/9f4d06be9865579382e48da0e2416ccc1412f235fedd76285e3a09fbb66a6584.jpg.webp",
+            "https://c.dns-shop.ru/thumb/st4/fit/500/500/c6b9465eafa1f1050da8d450d07b7dd8/9450993c78c578510dfdcb35813c46f73ac57025b7a293d7709fb5b3fe805208.jpg.webp",
+            "https://c.dns-shop.ru/thumb/st4/fit/500/500/d48a6b96d86d040fd9b68fccea9987ee/f88ca14f31678c34facf2cb0b18045eacd71783fbfeb2fa10e6e17615eadd6ed.jpg.webp",
+            "https://c.dns-shop.ru/thumb/st1/fit/500/500/ac8ba533d51beabd757cbbc8e17a0efd/a40b092965225060eb6dbc2bd0fb2866417199d18bf2ef0c6dee14998ead4dda.png.webp"
+        ]
+    },
+    {
+        "id": 34,
+        "brand": "Asus",
+        "title": "Моноблок ASUS",
+        "description": "Intel Core i5-1235U, 2x1.3ГГц, IPS, Full HD (1920x1080), 16ГБ DDR4",
+        "inDetail": "В конфигурацию моноблочного компьютера ASUS E3402WBA-WPC006M входит процессор Intel Core i5-1235U, твердотельный накопитель емкостью 512 ГБ и скоростной двухдиапазонный модуль беспроводной связи Wi-Fi 6. Тонкорамочный дисплей может похвастать большими углами обзора (178°) и широким цветовым охватом (100% sRGB). Великолепное изображение дополнено качественным звуком – аудиосистема ASUS SonicMaster Premium поддерживает аудиоэффекты Dolby Atmos и двухстороннее шумоподавление на базе искусственного интеллекта.При создании облика моноблочного компьютера ASUS E3402WBA-WPC006M дизайнеры и инженеры ASUS старались минимизировать число отвлекающих деталей, но при этом сделать его максимально удобным в использовании. Изящная и прочная подставка позволяет легко задать комфортный угол наклона экрана. Красивый дизайн, изюминкой которого является V-образный узор на задней панели, идеально впишется в обстановку дома.",
+        "price": 67.999,
+        "imageUrl": [
+            "https://c.dns-shop.ru/thumb/st1/fit/500/500/792d3e266a5e5aeaa79fad187a337db0/ba412acd86b32c2fbe527ec7468928451ad30cc49cf9d8ec07ac083f1f44823a.jpg.webp",
+            "https://c.dns-shop.ru/thumb/st1/fit/500/500/5ebf90f42cb3c6e6d89e107c67981e5d/0bfb2f690e50f231f87e3a8e58847531f8db18a70feff29749ec9084ac30dca6.jpg.webp",
+            "https://c.dns-shop.ru/thumb/st1/fit/500/500/07614ffad89c897d2d0f299c64d2600c/f818bb8b18e57e08d3c2bc14e08505662459773c5badf4fe0d91120da1747f08.jpg.webp",
+            "https://c.dns-shop.ru/thumb/st1/fit/500/500/a6a737ba6fefb50a6963dcb98f96593b/1dea2fb57d9a47707cd76443c0c7821177a7a975ed8ebe6a2323fd5c759e59f6.jpg.webp",
+            "https://c.dns-shop.ru/thumb/st1/fit/45/45/2754927c68b210638c6b79274a09e4fb/e3bfd9f52fdedd9dc18efbd194c8d1147d4bb6f68a876fa4bd5e94679aaa050c.jpg.webp",
+            "https://c.dns-shop.ru/thumb/st1/fit/500/500/a6fdf67e1382b24dfc3221ce94bfd65d/13979e9811aaa5293d3bb4173c87a6e453b06a590570d8b832c2484a4215461b.jpg.webp"
+        ]
+    }
+]
