@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "url": "images/img_1",
+    "url": "https://sun9-78.userapi.com/impf/yRagX_nzklDWagSHvYWoSMRgYzS3zDXe1Bl-XA/Tc-aL8CChl0.jpg?size=1920x768&quality=95&crop=0,12,1547,618&sign=cb7940cd10d0cbffa45ddb060ba11351&type=cover_group",
     "alt": "Image 1",
     "width": 1200,
     "height": 480,
@@ -9,7 +9,7 @@
   },
   {
     "id": 2,
-    "url": "images/img_2.jpg",
+    "url": "https://mir-s3-cdn-cf.behance.net/projects/808/f1076785170165.Y3JvcCwxNTM0LDEyMDAsMTgsMA.png",
     "alt": "Image 2",
     "width": 1200,
     "height": 480,
@@ -17,7 +17,7 @@
   },
   {
     "id": 3,
-    "url": "images/img_3.jpg",
+    "url": "https://avatars.mds.yandex.net/i?id=faea52ce474877944cbc811d9ad8c5f1_l-5252146-images-thumbs&n=13",
     "alt": "Image 3",
     "width": 1200,
     "height": 480,
@@ -25,15 +25,7 @@
   },
   {
     "id": 4,
-    "url": "./images/img_4",
-    "alt": "Image 4",
-    "width": 1200,
-    "height": 480,
-    "link": "/product/1"
-  },
-  {
-    "id": 4,
-    "url": "./images/img_5.jpg",
+    "url": "https://avatars.mds.yandex.net/i?id=2d4a67db4e4e95aaf41d596d49457426_l-10703010-images-thumbs&n=13",
     "alt": "Image 4",
     "width": 1200,
     "height": 480,
