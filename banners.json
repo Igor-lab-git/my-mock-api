@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "url": "https://www.tvbeurope.com/wp-content/uploads/2019/01/multiscreen_2015.jpg",
+    "url": "images/img_1.jpg",
     "alt": "Image 1",
     "width": 1200,
     "height": 480,
@@ -9,7 +9,7 @@
   },
   {
     "id": 2,
-    "url": "https://avatars.mds.yandex.net/get-altay/11244149/2a0000018cb70906c79dbe516a877af6ee24/XXXL",
+    "url": "images/img_2.jpg",
     "alt": "Image 2",
     "width": 1200,
     "height": 480,
@@ -17,7 +17,7 @@
   },
   {
     "id": 3,
-    "url": "https://avatars.mds.yandex.net/i?id=3adf4c9da949053231802179b17e32bca1f319ef-5560397-images-thumbs&n=13",
+    "url": "images/img_3.jpg",
     "alt": "Image 3",
     "width": 1200,
     "height": 480,
@@ -25,7 +25,15 @@
   },
   {
     "id": 4,
-    "url": "https://avatars.mds.yandex.net/i?id=ad051b5b7c854745d5ae78bcf9222f957d485a1b-5230098-images-thumbs&n=13",
+    "url": "images/img_4.jpg",
+    "alt": "Image 4",
+    "width": 1200,
+    "height": 480,
+    "link": "/product/1"
+  },
+  {
+    "id": 4,
+    "url": "images/img_5.jpg",
     "alt": "Image 4",
     "width": 1200,
     "height": 480,
