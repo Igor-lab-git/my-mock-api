@@ -527,5 +527,36 @@
             "https://c.dns-shop.ru/thumb/st1/fit/45/45/2754927c68b210638c6b79274a09e4fb/e3bfd9f52fdedd9dc18efbd194c8d1147d4bb6f68a876fa4bd5e94679aaa050c.jpg.webp",
             "https://c.dns-shop.ru/thumb/st1/fit/500/500/a6fdf67e1382b24dfc3221ce94bfd65d/13979e9811aaa5293d3bb4173c87a6e453b06a590570d8b832c2484a4215461b.jpg.webp"
         ]
+    },
+    {
+        "id": 4,
+        "brand": "Samsung",
+        "title": "Смартфон Samsung",
+        "description": "A06 64 ГБ, ядер-8x(2 ГГц), 4ГБ, 2SIM, PLS, 1600x720",
+        "inDetail": "Расширьте возможности благодаря большому экрану Samsung Galaxy A06 диагональю 6,7 дюйма. Теперь просматривать контент стало еще удобнее благодаря плавной прокрутке с частотой 60 Гц и дисплею с U-вырезом и TFT-матрицей. Смартфон получил повышенный уровень комфорта благодаря уменьшенному с 8,8 мм до 8,0 мм корпусу. А классические цвета смартфонов подчеркнут вашу индивидуальность. Откройте для себя возможности камеры Galaxy A06 с разрешением 50 МП. Создавайте фотографии потрясающего качества с помощью камеры с датчиком глубины 2 МП — она придаст изображению дополнительный объем. А фронтальная камера 8 МП обеспечит безупречную четкость ваших снимков. Благодаря боковому сканеру отпечатков пальцев разблокировать смартфон просто как никогда. Вы также можете активировать функцию двойного нажатия для включения камеры или других часто используемых приложений. Занимайтесь любимым делом, не беспокоясь об аккумуляторе — Galaxy A06 работает еще дольше от одного заряда. А поддержка супербыстрой зарядки в считанные минуты наполнит его энергией.",
+        "price": 7.499,
+        "imageUrl": [
+            "https://c.dns-shop.ru/thumb/st1/fit/500/500/e11a892fbedf586ee02fe9067481bb72/eb7248a61a909cd441290fc12ed56b86e84f43b95daf78dcfe7af0f0b7fb596d.jpg.webp",
+            "https://c.dns-shop.ru/thumb/st1/fit/500/500/b38dd116c4f0edca1f1044420c6e561f/1affaa604eecdc8b6229b53f29fbf3b6e131a73eefff35ab74be5e087b320aa2.jpg.webp",
+            "https://c.dns-shop.ru/thumb/st1/fit/500/500/43a5162741b0b02faa5d4cbac2384125/1819ca2b812c447b1822cf65e1decce016ee5d6ed4ca712c381f602739a97672.jpg.webp",
+            "https://c.dns-shop.ru/thumb/st1/fit/500/500/ed9fb221deeb33bba055561142ca5b21/898fbf7190948d312c62b721654a86997375d741b570f70585ab09a2cca8c293.png.webp",
+            "https://c.dns-shop.ru/thumb/st1/fit/500/500/f22380668c5a5c752bb419432e2b8f73/cc05598fad11af85d975afad75d8d7d748258adb51afd3ba7a8e676c41931855.jpg.webp"
+        ]
+    },
+    {
+        "id": 25,
+        "brand": "Samsung",
+        "title": "Телевизор Samsung",
+        "description": "OLED, QLED, 4K UltraHD, Wi-Fi, 144Гц, Tizen, HDMI 4, USBх2 шт",
+        "inDetail": "Телевизор Samsung QE65S90DAUXRU с панелью 65 дюймов OLED обеспечивает реалистичную картинку с глубокими оттенками. 4K-разрешение радует четкой передачей мелких деталей и оттенков. Технологии HDR улучшают яркость и контрастность, что позволяет наслаждаться реалистичными фильмовыми эффектами.",
+        "price": 139.999,
+        "imageUrl": [
+            "https://c.dns-shop.ru/thumb/st1/fit/500/500/12d1c31d3f2da364dd6501f0797dd810/bbf630861d6e4608cb6ac6860b7b2fe8456b5e7bfac8ce20569eeae6f86d52e8.jpg.webp",
+            "https://c.dns-shop.ru/thumb/st1/fit/500/500/309f644ca3a59d5ad6da5d624a7660ce/58cce563901579a6a9c8c945452347ef31c5f8fb554881e9091794c268f7281e.jpg.webp",
+            "https://c.dns-shop.ru/thumb/st1/fit/500/500/2b0f1a56debf1aeaa91e645feded0252/c71e4cd0d11700862d62980d2929892336120eeca6dd3626332e03150e9030e6.jpg.webp",
+            "https://c.dns-shop.ru/thumb/st1/fit/500/500/8e28c5419142dcfc5f85ef9fbcd44fd1/dacb04a7c6ab6ecc92434b4c54593c805f642c608dc81d26921f5a937a95498c.jpg.webp",
+            "https://c.dns-shop.ru/thumb/st1/fit/500/500/43ae6b71d6da6fe26f1821b3e49104bb/bb862498cc48359303ae503acb379f62272306f452429cfd8372b527e014a657.jpg.webp",
+            "https://c.dns-shop.ru/thumb/st1/fit/500/500/c8ae5030d7afa971c4a604e4060e1add/9cc3213c348e8f25141f36a6483f41f2fff385c8876ab704ba773961bcd63eab.jpg.webp"
+        ]
     }
 ]
