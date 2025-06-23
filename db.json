@@ -558,5 +558,37 @@
             "https://c.dns-shop.ru/thumb/st1/fit/500/500/43ae6b71d6da6fe26f1821b3e49104bb/bb862498cc48359303ae503acb379f62272306f452429cfd8372b527e014a657.jpg.webp",
             "https://c.dns-shop.ru/thumb/st1/fit/500/500/c8ae5030d7afa971c4a604e4060e1add/9cc3213c348e8f25141f36a6483f41f2fff385c8876ab704ba773961bcd63eab.jpg.webp"
         ]
+    },
+    {
+        "id": 27,
+        "brand": "Honor",
+        "title": "Смартфон HONOR",
+        "description": "ядер-8x(2.4ГГц), 8ГБ, 2 SIM, AMOLED, 2412x1080, камера 108+5+2Мп",
+        "inDetail": "Смартфон HONOR X8b представлен в пластиковом корпусе черного цвета. На экране диагональю 6.7 с технологией AMOLED отображается четкая и красочная картинка. Для быстродействия всей системы задействованы процессор Qualcomm Snapdragon 680 с 8 вычислительными ядрами и 8 ГБ оперативной памяти. Под хранение файлов предусмотрено 256 ГБ памяти.Камера с основным датчиком 108 Мп, сверхширокоугольным сенсором 5 Мп и датчиком глубины резкости 2 Мп способна делать реалистичные снимки. Фронтальная камера 50 Мп со вспышкой предназначена для селфи. Встроенный в боковую грань сканер отпечатков пальцев гарантирует разблокировку экрана касанием. За автономную работу смартфона HONOR X8b отвечает аккумулятор емкостью 4500 мА*ч. Он поддерживает стандарт ускоренного восстановления энергоресурса HONOR SuperCharge 35W.",
+        "price": 139.999,
+        "imageUrl": [
+            "https://c.dns-shop.ru/thumb/st4/fit/500/500/046595ccad119cdcf762e26c57eeffdf/aa8078cfab5c0115f4433695358c594fc2c6de418d0ec463cf6d2d1fce844ece.jpg.webp",
+            "https://c.dns-shop.ru/thumb/st1/fit/500/500/04a1dc07a3c3267895feaedb5b10de1f/4c3e96e188ab255c310798633f142b0f016663108ddf2c7fa29d658cd6dfc282.jpg.webp",
+            "https://c.dns-shop.ru/thumb/st1/fit/500/500/398f7b744b1706e9062cabc0d51a27a8/2a5d90bf9a9d72ab040d02f594fee461dc8a47582ca136de85f59fcc5555c9a4.jpg.webp",
+            "https://c.dns-shop.ru/thumb/st1/fit/500/500/75c7ff2522833548825f77b860ee8bfe/77880887797c23dd7af6ee26dd7d6e6b2945872a6a7af7e85477a91f890b3105.jpg.webp",
+            "https://c.dns-shop.ru/thumb/st4/fit/500/500/a1d9c374410e4b1ca475433fcf8c9a65/79f383a4a4bc3b1116fea2bd312ab040032c3ff28d93475e3d9e196fa5fec7fe.jpg.webp",
+            "https://c.dns-shop.ru/thumb/st4/fit/500/500/1662f47ed2e10632e88fc5549df52189/4ec86aa43bd72d71cbf68c5180c95a6c841bad0aff31823622145bb5b9324bab.jpg.webp"
+        ]
+    },
+    {
+        "id": 28,
+        "brand": "Apple",
+        "title": "Смартфон Apple",
+        "description": "ядер-6x(3.23ГГц), 6ГБ, 2SIM, Super Retina XDR, 2532x1170",
+        "inDetail": "Телевизор Samsung QE65S90DAUXRU с панелью 65 дюймов OLED обеспечивает реалистичную картинку с глубокими оттенками. 4K-разрешение радует четкой передачей мелких деталей и оттенков. Технологии HDR улучшают яркость и контрастность, что позволяет наслаждаться реалистичными фильмовыми эффектами.",
+        "price": 61.899,
+        "imageUrl": [
+            "https://c.dns-shop.ru/thumb/st1/fit/500/500/7f25e2d5c760859d94b6593181563c36/9450eece1c45d671e5d04fcfcb04dd220e8c603dddfdf7390f0709c5de85adec.jpg.webp",
+            "https://c.dns-shop.ru/thumb/st1/fit/500/500/ee0f98873d4fb7aeea19898687f299d0/9d04a35b384a674cf528b3e81c8c479386967325a6f4b07228fd8ac8e4f7bcad.jpg.webp",
+            "https://c.dns-shop.ru/thumb/st1/fit/500/500/7267eb2c90120bd9425dd2615fd5b51c/fdea13a3f4bdebd3e207a4d44256afa998c925f210cd00a95bd25c27b425ad9d.jpg.webp",
+            "https://c.dns-shop.ru/thumb/st1/fit/500/500/fb73eb585e49142836d8eac74b9bd17b/89e9a07b754ab6f2b212689dda69ec4939188ddbbb85df2364194358f9ac4c69.jpg.webp",
+            "https://c.dns-shop.ru/thumb/st1/fit/500/500/c3e119a09b082b6ea2faee21ce2e439f/596db350e0941454c755ada5d8cc55cee247072ed3baf3dda005e56ff83628d1.jpg.webp",
+            "https://c.dns-shop.ru/thumb/st1/fit/500/500/91943615247371450e61b8316550158c/ffa7c07122bc196f3d03f42b4b980f955a7302290d78505da6b000aa43405e28.jpg.webp"
+        ]
     }
 ]
