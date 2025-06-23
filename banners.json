@@ -26,5 +26,47 @@
     "alt": "Image 4",
     "width": 1200,
     "height": 480
+  },
+  {
+    "id": 4,
+    "url": "https://igor-lab-git.github.io/my-mock-api/images/banner_5.jpg",
+    "alt": "Image 4",
+    "width": 1200,
+    "height": 480
+  },
+  {
+    "id": 4,
+    "url": "https://igor-lab-git.github.io/my-mock-api/images/banner_6.jpg",
+    "alt": "Image 4",
+    "width": 1200,
+    "height": 480
+  },
+  {
+    "id": 4,
+    "url": "https://igor-lab-git.github.io/my-mock-api/images/banner_7.jpg",
+    "alt": "Image 4",
+    "width": 1200,
+    "height": 480
+  },{
+    "id": 4,
+    "url": "https://igor-lab-git.github.io/my-mock-api/images/banner_8.png",
+    "alt": "Image 4",
+    "width": 1200,
+    "height": 480
   }
+  ,{
+    "id": 4,
+    "url": "https://igor-lab-git.github.io/my-mock-api/images/banner_9.jpg",
+    "alt": "Image 4",
+    "width": 1200,
+    "height": 480
+  }
+  ,{
+    "id": 4,
+    "url": "https://igor-lab-git.github.io/my-mock-api/images/banner_10.jpg",
+    "alt": "Image 4",
+    "width": 1200,
+    "height": 480
+  }
+
 ]
