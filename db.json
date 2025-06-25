@@ -529,7 +529,7 @@
         ]
     },
     {
-        "id": 4,
+        "id": 35,
         "brand": "Samsung",
         "title": "Смартфон Samsung",
         "description": "A06 64 ГБ, ядер-8x(2 ГГц), 4ГБ, 2SIM, PLS, 1600x720",
@@ -544,7 +544,7 @@
         ]
     },
     {
-        "id": 25,
+        "id": 36,
         "brand": "Samsung",
         "title": "Телевизор Samsung",
         "description": "OLED, QLED, 4K UltraHD, Wi-Fi, 144Гц, Tizen, HDMI 4, USBх2 шт",
@@ -560,7 +560,7 @@
         ]
     },
     {
-        "id": 27,
+        "id": 37,
         "brand": "Honor",
         "title": "Смартфон HONOR",
         "description": "ядер-8x(2.4ГГц), 8ГБ, 2 SIM, AMOLED, 2412x1080, камера 108+5+2Мп",
@@ -576,7 +576,7 @@
         ]
     },
     {
-        "id": 28,
+        "id": 38,
         "brand": "Apple",
         "title": "Смартфон Apple",
         "description": "ядер-6x(3.23ГГц), 6ГБ, 2SIM, Super Retina XDR, 2532x1170",
